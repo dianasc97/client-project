@@ -1,0 +1,19 @@
+.body{
+    max-width: 100vw;
+}
+
+.field{
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 160px;
+    text-align: center;
+}
+.button{
+    background-color: white;
+    border-color: white;
+}
+
+.button:hover{
+    background-color: white;
+    border-color: white;
+}
